@@ -1,0 +1,32 @@
+.box {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    background-color: #ccc;
+}
+.date{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-right: 20%;
+}
+.amount{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.base{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.val{
+    margin-left: 10%;
+}
+
+
